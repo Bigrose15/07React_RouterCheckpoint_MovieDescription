@@ -1,0 +1,4 @@
+.watch-button:hover {
+  transform: scale(1.1); /* Slightly enlarge the button */
+  background-color: #535bf2;
+}
